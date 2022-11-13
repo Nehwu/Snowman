@@ -59,7 +59,7 @@ public class ChristmasTester {
 			}
 			f.setVisible(false);}
 			 else {
-				    System.out.println("+-------------------------------------+");
+				        System.out.println("+-------------------------------------+");
 					System.out.println("|                                     |");
 					System.out.println("|                                     |");
 					System.out.println("|            Excelent choice!         |");
