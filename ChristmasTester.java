@@ -37,20 +37,20 @@ public class ChristmasTester {
 			
 			System.out.println("+-------------------------------------+");
 			System.out.println("|                                     |");
-			System.out.println("|  What shall be the snowman's name?  |");
+			System.out.println("|  What should be the snowman's name? |");
 			System.out.println("|     Type the name of the snowman.   |");
 			System.out.println("|      Don't forget to press enter.   |");
 			System.out.println("|                                     |");
 			System.out.println("+-------------------------------------+");
 			String name = sc.nextLine();
 			f.setTitle("My name is " + name);
-			System.out.println("+---------------------------------------------+");
-			System.out.println("|                                             |");
-			System.out.println("|Do you want to add decoration to the snowman?|");
-			System.out.println("|           Press yes for decoration.         |");
-			System.out.println("|          Don't forget to press enter.       |");
-			System.out.println("|                                             |");
-			System.out.println("+---------------------------------------------+");
+			System.out.println("+---------------------------------------------------+");
+			System.out.println("|                                                   |");
+			System.out.println("| Do you want to add some decoration to the snowman?|");
+			System.out.println("|           Type yes for decoration.                |");
+			System.out.println("|          Don't forget to press enter.             |");
+			System.out.println("|                                                   |");
+			System.out.println("+---------------------------------------------------+");
 			try {
 				TimeUnit.SECONDS.sleep(7);
 			} catch (InterruptedException e) {
