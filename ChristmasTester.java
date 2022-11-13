@@ -29,8 +29,6 @@ public class ChristmasTester {
 	    f.add(dc);
 	    f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	 
-	    
-		
 		if (s.equals("yes")) {
 			
 			f.setVisible(true);
