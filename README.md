@@ -1,4 +1,4 @@
-# Snowman - see it, or not. Name it, or not. Decorate it, or not. This is the semester project for the TUL ALG1 class.
+# Snowman - semester project for the TUL ALG1 class.
 
 The program behaves in the following way:
 
