@@ -60,7 +60,7 @@ public class ChristmasTester {
 				        System.out.println("+-------------------------------------+");
 					System.out.println("|                                     |");
 					System.out.println("|                                     |");
-					System.out.println("|            Excelent choice!         |");
+					System.out.println("|            Excellent choice!        |");
 					System.out.println("|    I also don't want to see him :)  |");
 					System.out.println("|                                     |");
 					System.out.println("+-------------------------------------+");
