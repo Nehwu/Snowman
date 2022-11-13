@@ -86,7 +86,7 @@ public class ChristmasTester {
 				System.out.println("|                                             |");
 				System.out.println("|                                             |");
 				System.out.println("+---------------------------------------------+");
-				f.setVisible(fa);
+				f.setVisible(false);
 				f.setVisible(true);
 				
 		 }
