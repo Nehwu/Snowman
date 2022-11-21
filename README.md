@@ -26,7 +26,7 @@ I also don't want to see him :)
 7. The program changes the bar title of the opened window based on the input of the user. Now, instead of "My name is...", 
 it displays the user inputted name behind the three dots.
 
-8.  The console asks the user if he want to decorate the snowman.
+8.  The console asks the user if they want to decorate the snowman.
 
 9.  The user types "yes" and presses "enter".
 
