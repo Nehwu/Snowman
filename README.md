@@ -1,6 +1,10 @@
-# Snowman - semester project for the TUL ALG1 class.
+# Snowman - semester project for the TUL ALG1 class
+![image](https://user-images.githubusercontent.com/115619988/202973241-9b89771c-96ee-484c-9f94-fa361d75e5b6.png)
+![image](https://user-images.githubusercontent.com/115619988/202973463-6aa346b8-3b2e-44a3-bc67-5eb3be40e559.png)
+![image](https://user-images.githubusercontent.com/115619988/202973964-1dd81e67-f913-4e94-97c2-2dfbe1e4a0f9.png)
+![image](https://user-images.githubusercontent.com/115619988/202974047-11d8d852-182d-4286-9984-4ee5566a80ec.png)
 
-The program behaves in the following way:
+Full description of how the program behaves:
 
 1.  Hey, buddy!            
 Do you want to see the snowman?   
