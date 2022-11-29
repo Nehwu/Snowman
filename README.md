@@ -1,4 +1,8 @@
-# Snowman - Christmas project for the TUL ALG1 class
+# Snowman
+- Christmas project for the TUL ALG1 class
+
+![Snowman](https://user-images.githubusercontent.com/115619988/204642132-c01e0acd-93bb-409c-8ca9-9077e10d83d6.GIF)
+
 ![image](https://user-images.githubusercontent.com/115619988/202973241-9b89771c-96ee-484c-9f94-fa361d75e5b6.png)
 ![image](https://user-images.githubusercontent.com/115619988/202973463-6aa346b8-3b2e-44a3-bc67-5eb3be40e559.png)
 ![image](https://user-images.githubusercontent.com/115619988/202973964-1dd81e67-f913-4e94-97c2-2dfbe1e4a0f9.png)
